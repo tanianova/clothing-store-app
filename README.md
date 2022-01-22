@@ -4,3 +4,4 @@
 
 Используемые инструменты:
 * Sass
+* Reacr Router v5: BrowserRouter, Route, Switch, withRouter
