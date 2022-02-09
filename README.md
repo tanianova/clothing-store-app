@@ -11,3 +11,4 @@
 * redux
 * stripe (платежная система)
 * reselect
+* styled-components
