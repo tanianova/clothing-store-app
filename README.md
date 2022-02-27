@@ -6,10 +6,11 @@
 
 Используемые инструменты:
 * Sass
-* Reacr Router v5: BrowserRouter, Route, Switch, withRouter
+* React Router v5: BrowserRouter, Route, Switch, withRouter
 * Firebase
 * redux
 * stripe (платежная система)
 * reselect
 * styled-components
 * redux-saga
+* hooks
