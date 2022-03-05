@@ -14,3 +14,4 @@
 * styled-components
 * redux-saga
 * hooks
+* axios
